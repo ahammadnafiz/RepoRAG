@@ -1,11 +1,10 @@
-<h1 align="center">RepoRAG</h1>
-
 ![Banner](assets/banner.png)
 
 
+<h1 align="center">RepoRAG</h1>
+
 A fully interactive tool designed to streamline your GitHub repository prompt generation process and facilitate RAG (Retrieval-Augmented Generation) workflows
 
----
 
 ## 🏗️ System Design & Architecture
 - Below is the high-level architecture of the system:
