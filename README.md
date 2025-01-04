@@ -23,8 +23,6 @@ A fully interactive tool designed to streamline your GitHub repository prompt ge
 - [🤖 Technologies Used](#-technologies-used)
 - [📃 License](#-license)
 - [🤝 Contributing](#-contributing)
-- [🔗 Links](#-links)
-- [📝 Author](#-author)
 
 ---
 
@@ -139,7 +137,7 @@ Enter your choice (1/2): 2
 
 ## 📃 License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License. See the [LICENSE](https://github.com/ahammadnafiz/RepoRAG/blob/main/LICENSE) file for details.
 
 ---
 
