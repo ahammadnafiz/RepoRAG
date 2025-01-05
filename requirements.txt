@@ -9,6 +9,8 @@ langchain-groq>=0.0.2
 langchain-community>=0.0.13
 chromadb>=0.4.22
 sentence-transformers>=2.2.2
+nltk
+langchain-huggingface
 
 # Text processing
 tiktoken>=0.5.2

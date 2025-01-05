@@ -57,6 +57,11 @@ $ pip install -r requirements.txt
 
 4. **Create a `.env` file** to store your environment variables (see [Configuration](#%EF%B8%8F-configuration)).
 
+5. **Download NLTK Data** 
+```python
+python -c "import nltk; nltk.download('punkt'); nltk.download('stopwords'); nltk.download('wordnet')"
+```
+
 ---
 
 ## 🚀 Usage
